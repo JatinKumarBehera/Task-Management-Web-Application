@@ -1,0 +1,6 @@
+{
+  "name": "Task Management Web Application",
+  "description": "A high-performance modern Task Management Web Application built with React, CSS, Tailwind CSS, Node.js, and Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
